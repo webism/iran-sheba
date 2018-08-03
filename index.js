@@ -1,5 +1,3 @@
-
-
 var banks = [{
   nickname: 'central-bank',
   name: 'Central Bank of Iran',
@@ -23,6 +21,24 @@ var banks = [{
   name: 'Refah Bank',
   persianName: 'بانک رفاه کارگران',
   code: '013',
+  accountNumberAvailable: false
+}, {
+  nickname: 'kowsar institue',
+  name: 'Kowsar Bank',
+  persianName: 'موسسه مالی اعتباری کوثر',
+  code: '073',
+  accountNumberAvailable: false
+}, {
+  nickname: 'melal instatue(asgariye)',
+  name: 'melal Bank',
+  persianName: 'موسسه مالی اعتباری ملل',
+  code: '075',
+  accountNumberAvailable: false
+}, {
+  nickname: 'khavarmiyane bank',
+  name: 'khavarmiane Bank',
+  persianName: 'بانک خاورمیانه',
+  code: '078',
   accountNumberAvailable: false
 }, {
   nickname: 'maskan',
